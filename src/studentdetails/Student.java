@@ -6,7 +6,8 @@ student name, age etc*/
 public class Student {
     private String name;
     private int age;
-
+    private int semester;
+        
     /**
      * @return the name
      */
